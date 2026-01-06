@@ -26,7 +26,6 @@ public class Exercicio6 {
 		System.out.printf("\nx1 = %.2f", x1);
 		double x2 = (-b - Math.sqrt(delta)) / (2 * a);
 		System.out.printf("\nx2 = %.2f",x2);
-		
 
 		scan.close();
 	}
